@@ -52,7 +52,7 @@ def dnsToIp():
 print("******************Coded By $even667 *******************\n\n")
 #getting inputs from user
  
-print("1 - Whois  2 - Connector checker \n3 - Port checker 4 - Email finder\n5 - Technology resolver  6 - dns to ip \n 7 - do the all thing at the time")
+print("1 - Whois  2 - Connector checker \n3 - Port checker 4 - Email finder\n5 - Technology resolver  6 - dns to ip")
 
 option = input("Number : ")
 url = raw_input("Your Target url or DNS : ")
